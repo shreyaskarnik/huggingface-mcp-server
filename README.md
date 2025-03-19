@@ -1,4 +1,4 @@
-# Hugging Face MCP Server
+# 🤗 Hugging Face MCP Server 🤗
 
 [![smithery badge](https://smithery.ai/badge/@shreyaskarnik/huggingface-mcp-server)](https://smithery.ai/server/@shreyaskarnik/huggingface-mcp-server)
 A Model Context Protocol (MCP) server that provides read-only access to the Hugging Face Hub APIs. This server allows LLMs like Claude to interact with Hugging Face's models, datasets, spaces, papers, and collections.
