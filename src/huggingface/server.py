@@ -1,5 +1,5 @@
 """
-Hugging Face MCP Server
+🤗 Hugging Face MCP Server 🤗
 
 This server provides Model Context Protocol (MCP) access to the Hugging Face API,
 allowing models like Claude to interact with models, datasets, spaces, and other
