@@ -1,5 +1,6 @@
 # Hugging Face MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@shreyaskarnik/huggingface-mcp-server)](https://smithery.ai/server/@shreyaskarnik/huggingface-mcp-server)
 A Model Context Protocol (MCP) server that provides read-only access to the Hugging Face Hub APIs. This server allows LLMs like Claude to interact with Hugging Face's models, datasets, spaces, papers, and collections.
 
 ## Components
@@ -63,6 +64,14 @@ The server does not require configuration, but supports optional Hugging Face au
 ## Quickstart
 
 ### Install
+
+#### Installing via Smithery
+
+To install huggingface-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@shreyaskarnik/huggingface-mcp-server):
+
+```bash
+npx -y @smithery/cli install @shreyaskarnik/huggingface-mcp-server --client claude
+```
 
 #### Claude Desktop
 
